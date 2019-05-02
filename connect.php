@@ -1,6 +1,6 @@
 <?php
 $servername = "sql2.njit.edu";
-$username = "ar664";
+$username = "jaa75";
 $password = file_get_contents("password.txt");
 
 $password = trim($password);
